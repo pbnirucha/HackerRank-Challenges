@@ -1,1 +1,1 @@
-# hackerrank_challenges
+# HackerRank-Challenges
